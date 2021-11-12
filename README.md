@@ -5,12 +5,12 @@
 Install with the command:
 
 ```
-npm install --save devcamp-js-footer
+npm install --save ma-js-footer
 ```
 Add to a JavaScript Project with the following code:
 
 ```javascript
-import { footer } from 'devcamp-js-footer';
+import { footer } from 'ma-js-footer';
 
 footer('Some Name');
 ```
